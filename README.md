@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="./hubert.png" alt="Logo" width="80" height="80">
+  <a>
+    <img src="./hubert.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Hubert Boguski</h3>
@@ -11,9 +11,9 @@
 
 👋 Hi, I go by Hubert, Hub, hey man... It's all the same to me 😂
 - 👀 I’m interested in anything thats done for fun 
-- 🌱 I’m currently learning 🎸, 🎹, 
+- 🌱 I’m currently learning 🎸, 🎹, and codin for fun
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 <a href="https://www.linkedin.com/in/hubertboguski/">LinkedIn</a>
 
 <!---
 hubert-boguski/hubert-boguski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
