@@ -12,7 +12,7 @@
 👋 Hi, I go by Hubert, Hub, hey man... It's all the same to me 😂
 - 👀 I’m interested in anything thats done for fun 
 - 🌱 I’m currently learning 🎸, 🎹, and codin for fun
-- 💞️ I’m looking to collaborate on ...
+- 💞️ If you're building something for fun, reach out to me!
 - 📫 <a href="https://www.linkedin.com/in/hubertboguski/">LinkedIn</a>
 
 <!---
